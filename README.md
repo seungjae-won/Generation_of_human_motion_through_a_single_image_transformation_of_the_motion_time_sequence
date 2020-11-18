@@ -11,7 +11,7 @@
  </p>
 
 <h3>Abstract</h3>
-Class imbalance problem of data degrades classification performance. The same goes for the field of human motion recognition. Through a feature generator using ACGAN idea, I'm trying to improve the data imbalance problem in the field of human motion recognition. To compare performance through over-sampling and weight balancing, which are used to solve traditional data imbalance problems. "MSRC-12" provided by Microsoft is used as the dataset (Other datasets will be used in the future)
+In the field of human behavior generation, the X,Y,Z axis of the skeleton data is changed to R,G,B channels respectively to convert to image generation problems. Convert the full Time sequence of actions to a single image for each point and image generation for each class of data through ACGAN. Having novelty in taht the creation of human behavior has been resolved by converting it into an image.
 
 
 ### Dataset
@@ -25,10 +25,10 @@ There are a total of 12 classes, approximately 50 sequences for each class were 
 <p>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure.PNG" align="left" height="300" width="800" >
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure2.PNG" align="left" height="200" width="800" >
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  </p>
  
 <h3>Discussion</h3>
-<h4>1. Features that have passed LSTM may not be suitable</h4>
+<h4>1. Information loss inevitably occurs when converting the entire time sequence of human behavioral data into an image, and we need to think about how to minimize it.</h4>
 <h4>2. Concerns about problems with different sequence lengths for each motion of human motion data</h4>
-<h4>3. Regardless of the data imbalance, if there is not much data itsself, the performance is severely degraded.</h4>
+<h4>3. Performance improvement is needed to the extent that each operation can be distinguished in detail.</h4>
