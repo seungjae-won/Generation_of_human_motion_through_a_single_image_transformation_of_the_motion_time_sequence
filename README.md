@@ -1,6 +1,7 @@
  -- This is an ongoing project and not the final result. --
 
-##Generation of human behavior using ACGAN
+<h1>Generation of human behavior using ACGAN</h1>
+
 <br><br>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/real_motion_data.gif" align="left" height="300" width="300" >
 
@@ -19,10 +20,10 @@ There are a total of 12 classes, approximately 50 sequences for each class were 
 
 
 ### Method
-<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure.PNG" align="left" height="300" width="300" >
+<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure.PNG" align="left" height="300" width="800" >
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure2.PNG" align="left" height="300" width="800" >
+<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure2.PNG" align="left" height="200" width="800" >
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Discussion
