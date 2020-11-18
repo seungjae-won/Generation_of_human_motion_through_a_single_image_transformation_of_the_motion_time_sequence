@@ -3,8 +3,9 @@
 <h1>Generation of human behavior using ACGAN</h1>
 
 <br><br>
+<h3> Real motion data</h3>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/real_motion_data.gif" align="left" height="300" width="300" >
-
+<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/fake_motion_data.gif" align="middle" height="300" width="300" >
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
