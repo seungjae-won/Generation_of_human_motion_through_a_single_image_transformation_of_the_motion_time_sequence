@@ -30,7 +30,7 @@ There are a total of 12 classes, approximately 50 sequences for each class were 
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/jointTOimage.PNG" align="left" height="300" width="800" >
  <br><br> <br><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  </p>
  
 <h3>Discussion</h3>
