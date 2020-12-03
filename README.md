@@ -24,11 +24,11 @@ There are a total of 12 classes, approximately 50 sequences for each class were 
 ### Method
 <p>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure.PNG" align="left" height="300" width="800" >
- <br><br>
+ <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/xyzTOrgb.PNG" align="left" height="300" width="800" >
- <br><br>
+ <br><br> <br><br>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/jointTOimage.PNG" align="left" height="300" width="800" >
- <br><br>
+ <br><br> <br><br>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure2.PNG" align="left" height="200" width="800" >
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  </p>
