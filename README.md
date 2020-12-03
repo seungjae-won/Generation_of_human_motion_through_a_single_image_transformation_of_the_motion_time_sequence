@@ -4,7 +4,7 @@
 
 <br><br>
 <h3>   &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp Real motion data   
- &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp  Fake motion data </h3>
+ &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp  Generated motion data </h3>
 <p>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/real_motion_data.gif" align="left" height="300" width="300" >
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/fake_motion_data.gif" align="middle" height="300" width="300" >
@@ -24,8 +24,13 @@ There are a total of 12 classes, approximately 50 sequences for each class were 
 ### Method
 <p>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure.PNG" align="left" height="300" width="800" >
+ <br><br>
+<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/xyzTOrgb.PNG" align="left" height="300" width="800" >
+ <br><br>
+<img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/jointTOimage.PNG" align="left" height="300" width="800" >
+ <br><br>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/figure/method_figure2.PNG" align="left" height="200" width="800" >
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  </p>
  
 <h3>Discussion</h3>
