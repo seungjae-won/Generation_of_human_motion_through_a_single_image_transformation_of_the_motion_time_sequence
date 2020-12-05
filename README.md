@@ -1,4 +1,4 @@
- -- This is an ongoing project and not the final result. --
+
 
 <h1>Generation of human behavior using ACGAN</h1>
 
