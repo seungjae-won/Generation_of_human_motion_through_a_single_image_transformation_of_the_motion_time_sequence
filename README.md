@@ -1,6 +1,6 @@
 
 
-<h1>Generation of human behavior using ACGAN</h1>
+<h1>Generation of human motion through a single image transformation of the whole motion time sequence</h1>
 
 <br><br>
 <h3>   &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp Real motion data   
