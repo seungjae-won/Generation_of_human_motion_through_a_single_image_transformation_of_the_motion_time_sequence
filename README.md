@@ -18,7 +18,7 @@ In the field of human behavior generation, the X,Y,Z axis of the skeleton data i
 Download-dataset : [MSRC-12 - download](https://www.microsoft.com/en-us/download/details.aspx?id=52283) <br>
 Dataset document : [Reference document](https://nanopdf.com/download/this-document-microsoft-research_pdf)
 
-There are a total of 12 classes, approximately 50 sequences for each class were used for training and 10 sequences were used for the test. Data sampling is used to solve the inherent problem of human motion recognition, the difference in sequence length for each motion. The odd-numbered class(total 6 classes) was trained by creating an artificial imbalance situation according to the experimental ratio to the number of balanced classes. 
+Microsoft Research Cambridge-12 (MSRC-12) besture data was used in the experiment. A total of 12 classes exist, and about 60 time sequence data exist for each class. There was a problem that the length of time sequence for each class was very different. For smooth model learning, the time sequence for each class was extracted to a total of 256 through Average sampling. In addition, 60 data were thought to be insufficient for learning to generate appropriate behavior, so 600 data for each class was used through data copy.
 
 
 ### Method
