@@ -9,6 +9,10 @@
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/real_motion_data.gif" align="left" height="300" width="300" >
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/fake_motion_data.gif" align="middle" height="300" width="300" >
  </p>
+ 
+ <h3> ALL Generated results </h3>
+https://github.com/seungjae-won/Generation_of_human_motion_through_a_single_image_transformation_of_the_motion_time_sequence/blob/master/ex_result/ACGAN/figure/README.md
+
 
 <h3>Abstract</h3>
 In the field of human behavior generation, the X,Y,Z axis of the skeleton data is changed to R,G,B channels respectively to convert to image generation problems. Convert the full Time sequence of actions to a single image for each point and image generation for each class of data through ACGAN. Having novelty in taht the creation of human behavior has been resolved by converting it into an image.
