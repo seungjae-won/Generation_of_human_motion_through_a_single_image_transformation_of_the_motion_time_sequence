@@ -21,7 +21,7 @@
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/figure_result/real_motion_Bow.gif" align="left" height="300" width="300" >
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/figure_result/fake_motion_Bow.gif" align="middle" height="300" width="300" >
  </p>
- <br><br><br><br><br><br><br><br><br><br><br><br>
+ <br>
  
 <p>
 <img src="https://github.com/seungjae-won/Generation-of-human-behavior-using-ACGAN/blob/master/ex_result/ACGAN/figure/figure_result/real_motion_had_enough.gif" align="left" height="300" width="300" >
